@@ -22,3 +22,15 @@ SO THAT my website can handle large amounts of unstructured data
 ## Description
 
     This application allows the user to work through insomnia to show the Social Clubs data. The code allows the user to see all the Users on Social Club as well as there Thoughts and reactions. The code will allow the user to make GET, POST, PUT, and DELETE requests.
+
+## Video Walkthroughs
+
+### User Routes
+ This video will include the start of the server, the GET all users, GET a single user, POST, PUT, and DELETE for a single user, and a POST and DELETE for a friend on a users id.
+
+https://drive.google.com/file/d/1G1i6A0EO5NhPafeeYpzqPmcfLi8TbHjf/view?usp=sharing
+
+### Thought Routes
+This video will includes GET all thoughts, GET a single thought, POST, PUT, and DELETE a single thought, and POST and DELETE a reaction to a thought.
+
+https://drive.google.com/file/d/1G1i6A0EO5NhPafeeYpzqPmcfLi8TbHjf/view?usp=sharing
